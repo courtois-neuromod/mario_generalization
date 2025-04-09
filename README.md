@@ -10,13 +10,4 @@ Analysis code for the mario_generalization project, comparing within- and out-of
 - Run scripts in code/scripts
 - Build figures with the notebooks
 
-### Setup environment
-
-­­­```
-python -m venv env
-source env/bin/activate
-pip install --upgrade pip
-pip install -r requirements.txt
-```
-
 
