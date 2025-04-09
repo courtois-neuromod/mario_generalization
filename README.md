@@ -4,11 +4,13 @@ Analysis code for the mario_generalization project, comparing within- and out-of
 
 ## Installation
 
-­­­```
+- Clone the repository
+- Create an environment
+- Install dataset in sourcedata
+- Run scripts in code/scripts
+- Build figures with the notebooks
 
-```
-
-## Setup environment
+### Setup environment
 
 ­­­```
 python -m venv env
@@ -17,12 +19,4 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-## Setup dataset (full)
-­­­```
-
-­­­```
-
-## Setup dataset (open data only)
-```
-­­­```
 
