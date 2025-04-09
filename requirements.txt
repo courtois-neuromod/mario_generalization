@@ -6,3 +6,6 @@ torchvision
 pytorch_lightning
 hydra-core
 tensorboard
+pandas
+matplotlib
+seaborn
